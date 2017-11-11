@@ -1,0 +1,13 @@
+*.bk
+target
+auth_token
+.local
+.cargo
+.config
+.bash_history
+.gitconfig
+.rustup
+minilinuxfs
+.gnupg
+gjkbot/.git/
+magnusi.tech/.git/
